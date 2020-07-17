@@ -159,3 +159,9 @@ a {
   background: url("https://cdn.auth0.com/blog/whatabyte/patio.png") left bottom;
   background-size: cover;
 }
+
+.displayPicture {
+  float: left;
+  max-width: 200px;
+  margin-right: 10px; 
+}
